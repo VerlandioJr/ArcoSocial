@@ -36,7 +36,8 @@ main h1{
 }
 
 main p{
-    font-size: 0.8em;
+    font-size: 1em;
+    text-align: justify;
     margin: 10px 0;
 }
 
@@ -51,6 +52,10 @@ a{
     font-family: 'Se', sans-serif;
     text-decoration: none;
     color: rgb(20, 19, 19);
+}
+
+a:hover{
+    color: rgb(239, 242, 239);
 }
 
 .card{
@@ -73,6 +78,11 @@ a{
 
 .card i{
     font-size: 2em;
+}
+
+.card:hover{
+    background-color: rgb(4, 94, 4);
+    transition: 0.3s;
 }
 
 .material-icons {
@@ -101,6 +111,11 @@ section.servicos{
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 
     text-align: center;
+}
+
+.card1:hover{
+    background-color: rgb(4, 94, 4);
+    transition: 0.3s;
 }
 
 footer {
