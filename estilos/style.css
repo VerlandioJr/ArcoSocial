@@ -38,7 +38,7 @@ header {
     height: 65px;
 
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(5, 1fr);
 
     background-color: #fff;
     box-shadow: 0 -2px 8px rgba(0, 0, 0, 0.15);
@@ -131,7 +131,7 @@ a:hover{
 }
 
 section.servicos{
-    display: grid;
+    display: none;
     grid-template-rows: 1fr;
     gap: 5px;
     margin: 10px 0;
