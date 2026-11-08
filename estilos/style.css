@@ -12,9 +12,7 @@ body{
     padding-bottom: 60px;
 }
 
-main .menu-desktop{
-    display: none;
-}
+
 
 header {
     font-family: 'Verdana', sans-serif;
@@ -66,6 +64,7 @@ header {
 
 
 main{
+    height: 100%;
     width: 90%;
     max-width: 1000px;
     margin: 0 auto;
@@ -157,6 +156,10 @@ section.servicos{
 .card1:hover{
     background-color: rgb(4, 94, 4);
     transition: 0.3s;
+}
+
+.desktop{
+    display: none;
 }
 
 footer {
