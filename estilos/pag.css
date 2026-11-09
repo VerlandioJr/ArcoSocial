@@ -7,6 +7,10 @@
     box-sizing: border-box;
 }
 
+body{
+    padding-bottom: 60px;
+}
+
 header{
     font-family: 'Verdana', sans-serif;
     font-weight: bold;
