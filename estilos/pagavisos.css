@@ -107,7 +107,7 @@ main{
     margin: 12px;
 
     font-size: 1em;
-    text-align: justify;
+    text-align: center;
 }
 
 a{
@@ -137,7 +137,7 @@ footer p{
 }
 
 footer .text{
-    text-align: justify;
+    text-align: center;
 }
 
 .footer-info p{
