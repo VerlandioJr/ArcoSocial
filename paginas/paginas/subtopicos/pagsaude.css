@@ -120,6 +120,10 @@ main h2{
     color: rgb(248, 5, 5);
 }
 
+main h3,h4{
+    padding-top: 5px;
+}
+
 a{
     color: black;
     text-decoration: none;
@@ -153,4 +157,13 @@ footer .text{
 .footer-info p{
     margin: 5px 0;
     padding: 5px;
+}
+
+.footer-direita a{
+    color: rgb(147, 20, 189);
+}
+
+.footer-direita a:hover{
+    color: blueviolet;
+    background-color: white;
 }
