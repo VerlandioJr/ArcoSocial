@@ -145,3 +145,12 @@ footer .text{
     margin: 5px 0;
     padding: 5px;
 }
+
+.footer-direita a{
+    color: rgb(147, 20, 189);
+}
+
+.footer-direita a:hover{
+    color: blueviolet;
+    background-color: white;
+}
